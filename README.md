@@ -242,7 +242,7 @@ Please note that this PHP reference is generated using ChatGPT and is intended f
     Example:
     ```php
     class MyIterator implements Iterator {
-        // Class implementation
+        // Class Implementation
     }
     ```
 
