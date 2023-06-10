@@ -54,4 +54,6 @@ function sum($a, $b){
 
 echo sum(5, 10)."\n";
 
+echo sizeof($months);
+
 ?>
