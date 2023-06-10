@@ -1,6 +1,6 @@
 ## PHP Reference
 
-Please note that this PHP reference is generated using ChatGPT and is intended for developers familiar with at least one Programming Language other than PHP and who want to learn the Basics of PHP. It provides a concise overview of different PHP topics along with example code. However, it may not cover advanced or specialized aspects of PHP. For comprehensive and detailed information, always refer to the official PHP documentation and other reliable resources.
+Please note that this PHP reference is generated using ChatGPT and is intended for developers familiar with at least one Programming Language other than PHP and who want to learn the Basics of PHP. It provides a concise overview of different PHP topics along with example code. However, it may not cover advanced or specialized aspects of PHP. For comprehensive and detailed information, always refer to the [official PHP documentation](https://www.php.net/manual/en/) and other reliable resources.
 
 1. **Language Reference:**
 
@@ -282,4 +282,4 @@ Please note that this PHP reference is generated using ChatGPT and is intended f
     $content = file_get_contents('http://example.com');
     ```
 
-Please note that this PHP reference is generated using ChatGPT and is intended for developers familiar with PHP. It provides a concise overview of different PHP topics along with example code. However, it may not cover advanced or specialized aspects of PHP. For comprehensive and detailed information, always refer to the official PHP documentation and other reliable resources.
+Please note that this PHP reference is generated using ChatGPT and is intended for developers familiar with at least one Programming Language other than PHP and who want to learn the Basics of PHP. It provides a concise overview of different PHP topics along with example code. However, it may not cover advanced or specialized aspects of PHP. For comprehensive and detailed information, always refer to the [official PHP documentation](https://www.php.net/manual/en/) and other reliable resources.
