@@ -334,4 +334,3 @@ Here's an example of how to use Composer in a PHP project:
 
 For more information, refer to the official [Composer documentation](https://getcomposer.org/doc/).
 
-```
