@@ -110,9 +110,7 @@ Please note that this PHP reference is generated using ChatGPT and is intended f
     class Person {
         public $name;
         public function greet() {
-            echo "Hello, my name is " . $this->name
-
- . ".";
+            echo "Hello, my name is " . $this->name . ".";
         }
     }
     $person = new Person();
