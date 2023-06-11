@@ -17,6 +17,7 @@ Please note that this PHP reference is generated using ChatGPT and is intended f
    ?>
    ```
 
+
 3. **Types:**
 
    PHP supports various types such as integers, floats, strings, booleans, arrays, objects, and null.
